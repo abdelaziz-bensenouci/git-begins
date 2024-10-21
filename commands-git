@@ -8,3 +8,10 @@ git push origin main     : Pousse les changements sur la branche main (Pour envo
 
 Commande qui permet de pull:
 git pull origin <nom_de_la_branche>
+
+Création d'une branche:
+git branch <nom de la branche>
+
+Pour changer de branche :
+git checkout <nom de la branche>
+
