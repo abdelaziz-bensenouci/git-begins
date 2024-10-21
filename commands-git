@@ -1,7 +1,7 @@
-# Cloner un repository
+Cloner un repository : 
 git clone <repository_url>
 
-# Les 3 commandes de push
-git add .                # Ajoute tous les fichiers au staging
-git commit -m "Message"  # Crée un commit avec un message
-git push origin main     # Pousse les changements sur la branche main
+Les 3 commandes de push :
+git add .                : Pour ajouter tous les fichiers modifiés
+git commit -m "Message"  : Crée un commit avec un message (Une fois les fichiers ajoutés)
+git push origin main     : Pousse les changements sur la branche main (Pour envoyer les commits vers le repository)
